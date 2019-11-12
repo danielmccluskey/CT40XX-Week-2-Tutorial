@@ -17,6 +17,21 @@ List of tutorials for this session:
 3. [Some basic Python Exercises](CT40XX-Week-2-Tutorial-4-PythonExercises.md)
 4. [Pushing your work to GitHub](CT40XX-Week-2-Tutorial-5-CommittingToGithub.md)
 
+## Extra Resources
+### Helpful Links
+
+##### GitHub Tutorials
+We will be teaching you how to use Git and GitHub later in the module but its a good idea to try and get a grasp of it on your own since you will also be using it for other modules. Git is also industry standard in most companies for Source Control so being proficient at it is a must for being hired during your placement year or after your course.
+
+- [GitHub Desktop Tutorial](https://help.github.com/en/desktop/getting-started-with-github-desktop)
+- [Dangit, git!](https://dangitgit.com/)
+
+##### Python Tutorials
+Simularly with Python, we will be teaching it to you but it will help massively if you put in the time in your independant learning hours into getting a good grasp of Python.
+
+- [Kaggle's Python Tutorial](https://www.kaggle.com/learn/python)
+
+
 ## Recommended Reading
 Books listed are available via the Library.
 
