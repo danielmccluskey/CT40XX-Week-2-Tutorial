@@ -33,6 +33,18 @@ For now, we're going to write a simple program that asks for our name and then s
 
 Try and do this by yourself! Practice makes perfect, but if you get stuck the code is in the drop down section below.
 
+<details>
+    <summary>Solution</summary>
+
+All you need to write is the following:
+
+```python
+user_name = input("What is your name?: ")
+print("Hello " + user_name)
+```
+
+</details>
+
 
 # Running our Python code
 To run our code, we're are going to need a Python Interpreter to run it from. For this, we are going to use the Anaconda Prompt that was installed when you installed the Anaconda Distribution.
