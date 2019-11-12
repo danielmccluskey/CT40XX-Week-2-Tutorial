@@ -58,4 +58,4 @@ python CT40XX-Week-2-Tutorial-1-PyFile.py
 Running either of these will execute our `.py` file!
 
 # Creating your own `.py` file
-Move onto the next tutorial 
+Move onto the next tutorial which will qucikly go over how to create your own `.py` file.

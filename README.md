@@ -11,9 +11,11 @@ This weeks tutorials will show you how to run Python code outside of Jupyter Not
 ## Tutorials
 List of tutorials for this session:
 
-1. [XXXXX](README.md)
-2. [XXXXX](README.md)
-3. [XXXXX](README.md)
+1. [Opening a `.py` file from Visual Studio](CT40XX-Week-2-Tutorial-1-PythonFromVisualStudio.md)
+2. [Running a `.py` file](CT40XX-Week-2-Tutorial-2-RunningAPYFile.md)
+3. [Creating your own `.py` files](CT40XX-Week-2-Tutorial-3-CreatingAPYFile.md)
+3. [Some basic Python Exercises](CT40XX-Week-2-Tutorial-4-PythonExercises.md)
+4. [Pushing your work to GitHub](CT40XX-Week-2-Tutorial-5-CommittingToGithub.md)
 
 ## Recommended Reading
 Books listed are available via the Library.
