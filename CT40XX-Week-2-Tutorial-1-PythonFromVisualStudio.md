@@ -43,6 +43,8 @@ user_name = input("What is your name?: ")
 print("Hello " + user_name)
 ```
 
+And then save the file!
+
 </details>
 
 
@@ -50,6 +52,8 @@ print("Hello " + user_name)
 To run our code, we're are going to need a Python Interpreter to run it from. For this, we are going to use the Anaconda Prompt that was installed when you installed the Anaconda Distribution.
 
 To open the Anaconda Prompt, just simply search for it in the Windows Start menu and click on it.
+
+![Anaconda](IMG-All/IMG-PythonFromVS/anaconda.PNG)
 
 When it opens, you will need to navigate to where your `.py` file is located. On the command line we can do this using the `cd` command (Change Directory). My `.py` file is located in my GitHub repository in my documents folder so I need to type:
 
@@ -74,6 +78,8 @@ python CT40XX-Week-2-Tutorial-1-PyFile.py
 ```
 
 Running either of these will execute our `.py` file!
+
+![Pythonfile](IMG-All/IMG-PythonFromVS/pythonfile.PNG)
 
 # Creating your own `.py` file
 Move onto the next tutorial which will qucikly go over how to create your own `.py` file.

@@ -1,24 +1,38 @@
 ![UOG Logo](IMG-All/uoglogo.jpg)
-# CT40XX - Week X - Tutorial
-Welcome to your second Tutorial Repository for CT40XX Introduction to Artificial Intelligence! This is your own personal repository where you and only you can see and make changes.
+# Running our Python code
+This section will quickly go over how to run the Python file we opened in the last tutorial.
 
-We will be using GitHub Classrooms for most tutorials and Assignment submissions during this module, so it might be a good idea to brush up on your Git skills in your independant learning hours.
+To run our code, we're are going to need a Python Interpreter to run it from. For this, we are going to use the Anaconda Prompt that was installed when you installed the Anaconda Distribution.
 
-Below are a list of tutorials, these are not assessed but you are expected to complete each of them either in the practical session of the lecture or in your own time, they may seem simple, but they focus on building your skills from the ground up and will teach you the skills which the Assignments for this module are marked upon.
+To open the Anaconda Prompt, just simply search for it in the Windows Start menu and click on it.
 
-This weeks tutorials will show you how to run Python code outside of Jupyter Notebook alongside some Python Exercises to test your knowledge from today's session.
+![Anaconda](IMG-All/IMG-PythonFromVS/anaconda.PNG)
 
-## Tutorials
-List of tutorials for this session:
+When it opens, you will need to navigate to where your `.py` file is located. On the command line we can do this using the `cd` command (Change Directory). My `.py` file is located in my GitHub repository in my documents folder so I need to type:
 
-1. [XXXXX](README.md)
-2. [XXXXX](README.md)
-3. [XXXXX](README.md)
+```bash
+cd C:\Users\USERNAME\Documents\GitHub\CT40XX-Week-2-Tutorial\TutorialFiles
+```
+or since when opened, the Anaconda Prompt defaults to the users home directory, I could do a series of commands one after another like so:
+```bash
+cd Documents
+cd GitHub
+cd CT40XX-Week-2-Tutorial
+cd TutorialFiles
+```
 
-## Recommended Reading
-Books listed are available via the Library.
+Once we have reached that directory, we can execute our Python code! We can either use `py` or `python` to run the file like so:
+```bash
+py CT40XX-Week-2-Tutorial-1-PyFile.py
+```
+or
+```bash
+python CT40XX-Week-2-Tutorial-1-PyFile.py
+```
 
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
-- Book X - Chapters/Pages [X-Y]
+Running either of these will execute our `.py` file!
+
+![Pythonfile](IMG-All/IMG-PythonFromVS/pythonfile.PNG)
+
+# Creating your own `.py` file
+Move onto the next tutorial which will qucikly go over how to create your own `.py` file.
