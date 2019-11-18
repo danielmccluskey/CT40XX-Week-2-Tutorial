@@ -35,4 +35,4 @@ Running either of these will execute our `.py` file!
 ![Pythonfile](IMG-All/IMG-PythonFromVS/pythonfile.PNG)
 
 # Creating your own `.py` file
-Move onto the next tutorial which will qucikly go over how to create your own `.py` file.
+Move onto the next tutorial which will quickly go over how to create your own `.py` file.
