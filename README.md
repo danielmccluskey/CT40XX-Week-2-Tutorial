@@ -1,5 +1,5 @@
 ![UOG Logo](IMG-All/uoglogo.jpg)
-# CT40XX - Week X - Tutorial
+# CT40XX - Week 2 - Tutorial
 Welcome to your second Tutorial Repository for CT40XX Introduction to Artificial Intelligence! This is your own personal repository where you and only you can see and make changes.
 
 We will be using GitHub Classrooms for most tutorials and Assignment submissions during this module, so it might be a good idea to brush up on your Git skills in your independant learning hours.

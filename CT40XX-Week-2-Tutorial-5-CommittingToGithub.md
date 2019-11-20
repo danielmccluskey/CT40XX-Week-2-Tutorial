@@ -1,6 +1,6 @@
 ![UOG Logo](IMG-All/uoglogo.jpg)
 
-# CT40XX - Week 1 - Tutorial #5
+# CT40XX - Week 2 - Tutorial #5
 This tutorial will show you how to push and save your work to GitHub.
 
 
